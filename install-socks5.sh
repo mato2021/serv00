@@ -49,7 +49,7 @@ done
       "tag": "socks",
       "settings": {
         "auth": "password",
-        "udp": false,
+        "udp": true,
         "ip": "0.0.0.0",
         "userLevel": 0,
         "accounts": [
