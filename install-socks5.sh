@@ -49,7 +49,7 @@ done
       "tag": "socks",
       "settings": {
         "auth": "password",
-        "udp": true,
+        "udp": flase,
         "ip": "0.0.0.0",
         "userLevel": 0,
         "accounts": [
